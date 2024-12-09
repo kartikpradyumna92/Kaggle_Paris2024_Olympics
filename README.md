@@ -1,5 +1,5 @@
-# Kaggle_Paris2024_Olympics
-Data Story telling on Paris 2024 Olympics. Understand the data around Paris 2024 Olympics and visualize interesting findings.
+# Kaggle Paris2024 Olympics Data Storytelling
+Data Story telling on Paris 2024 Olympics. Understand the data around Paris 2024 Olympics and visualize interesting findings.<br><br>
 Kaggle Dataset - https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data
 
 
