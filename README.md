@@ -1,8 +1,10 @@
 # Kaggle Paris2024 Olympics Data Storytelling
 Data Story telling on Paris 2024 Olympics. Understand the data around Paris 2024 Olympics and visualize interesting findings.<br><br>
 Kaggle Dataset - https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data
+<br><br>
 
-
+Kaggle notebook - https://www.kaggle.com/code/kartikpradyumna92/data-story-telling-on-paris-2024-olympics
+<br><br>
 __*Conclusion Notes*__
 This data was around the evnts and athletes part of Paris 2024 Olympics. I looked at it from few point of views (POV)
 
@@ -46,7 +48,4 @@ from 1 athletes POV- Novak Djokovic
 
 ![Novak Djokovic's Journey to Olympics Gold.](Paris_2024_Olympics_result_images/novak_djokovic_journey.png)
 
-
-<br><br>
-
-Kaggle notebook - https://www.kaggle.com/code/kartikpradyumna92/data-story-telling-on-paris-2024-olympics
+<br>
