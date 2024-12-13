@@ -11,13 +11,11 @@ This data was around the evnts and athletes part of Paris 2024 Olympics. I looke
 
 from Events POV <br>
       *      Ranked events based on the occurrence. Most events are Athletics events since it bins all track and field events, followed by swimming.
-
 ![Events histogram ](Paris_2024_Olympics_result_images/events_line_chart.png)      
 
 from Schedule POV<br>
       *      Time series plot to see total events everyday and cumulative event to understand percentage completion each day.
             Comapred with Basketball event schedule and trend is highly correlated
-
 ![Schedule line chart](Paris_2024_Olympics_result_images/schedule_line_chart.png)
 <br>
 from Overall Athletes POV<br>
@@ -27,20 +25,15 @@ from Overall Athletes POV<br>
             Most common age of the player is 27 and variance of age across gender is almost similar with little difference.<br>
       *     Interesting find was that Variance of athletes coming from China is low, lowest age being 12 and highest age being 37.
 
-
 ![Athletes per Discipline per Country](Paris_2024_Olympics_result_images/athletes_per_discipline_per_country.png)
-
 ![Violin Chart of age per gender](Paris_2024_Olympics_result_images/violin_chart_athletes_age_per_gender.png)
-
 ![Country level data story](Paris_2024_Olympics_result_images/sub_plot_country_level.png)
 <br>
 from Medals POV<br>
       *     Interesting identification was seeing various athletes like Yufei Zhang winning multiple medals.
 
 ![Gold Medalist Summary](Paris_2024_Olympics_result_images/gold_medalists_summary.png)
-
 ![Silver Medalist Summary](Paris_2024_Olympics_result_images/silver_medalists_summary.png)
-
 ![Bronze Medalist Summary](Paris_2024_Olympics_result_images/bronze_medalists_summary.png)
 <br>
 from 1 athletes POV- Novak Djokovic<br>
