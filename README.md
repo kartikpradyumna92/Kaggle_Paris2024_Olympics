@@ -14,8 +14,8 @@ from Events POV <br>
 
 ![Events histogram ](Paris_2024_Olympics_result_images/events_line_chart.png)      
 
-from Schedule POV
-            Time series plot to see total events everyday and cumulative event to understand percentage completion each day.
+from Schedule POV<br>
+      *      Time series plot to see total events everyday and cumulative event to understand percentage completion each day.
             Comapred with Basketball event schedule and trend is highly correlated
 
 ![Schedule line chart](Paris_2024_Olympics_result_images/schedule_line_chart.png)
