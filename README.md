@@ -24,7 +24,7 @@ This data was around the evnts and athletes part of Paris 2024 Olympics. I looke
             Gender parity is not a lot in top ten Countries in terms of total athletes representing their country but overall there were more male athletes than female athletes.
             Most common age of the player is 27 and variance of age across gender is almost similar with little difference.<br>
       *     Interesting find was that Variance of athletes coming from China is low, lowest age being 12 and highest age being 37. <br>
-      *     <u>T-test</u> - check if there is statiscal signifance in mean Age of Female and Male athletes. p-value = 6.675129492779651e-13 and is < 0.05 hence concluding that there statistical difference between mean age of male and Female athletes.<br><br>
+      *     <ins> T-test </ins> - check if there is statiscal signifance in mean Age of Female and Male athletes. p-value = 6.675129492779651e-13 and is < 0.05 hence concluding that there statistical difference between mean age of male and Female athletes.<br><br>
 
 ![Athletes per Discipline per Country](Paris_2024_Olympics_result_images/athletes_per_discipline_per_country.png)
 ![Violin Chart of age per gender](Paris_2024_Olympics_result_images/violin_chart_athletes_age_per_gender.png)
@@ -39,7 +39,7 @@ This data was around the evnts and athletes part of Paris 2024 Olympics. I looke
 <br>
 ![Bronze Medalist Summary](Paris_2024_Olympics_result_images/bronze_medalists_summary.png)
 <br><br>
-      *     <u>Chi-Square test for Independence</u> - check if category features- Country and Medal type are independent to each other. p value = 2.7226041047105514e-40 and is < 0.05 hence concluding country an athlete represents significantly affects the type of medal won (Gold, Silver, Bronze) at Paris 2024 Olympics.
+      *     <ins>Chi-Square test for Independence</ins> - check if category features- Country and Medal type are independent to each other. p value = 2.7226041047105514e-40 and is < 0.05 hence concluding country an athlete represents significantly affects the type of medal won (Gold, Silver, Bronze) at Paris 2024 Olympics.
 <br><br>
 <h3>from 1 athlete POV- Novak Djokovic</h3>
      *      As a viewer, I am interested in games my favorite athlete is playing. I am a fan of Novak Djokovic and seeing him win his 1st Gold medal in his possibly last Olympics was very satisfying.
